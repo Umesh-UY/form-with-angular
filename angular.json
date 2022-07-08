@@ -30,7 +30,8 @@
                             "src/assets"
                         ],
                         "styles": [
-                            "./node_modules/bootstrap/dist/css/bootstrap.min.css"
+                            "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+                            "./node_modules/bootstrap-icons/font/bootstrap-icons.css"
                         ],
                         "scripts": [
                             "./node_modules/jquery/dist/jquery.min.js",
@@ -104,6 +105,5 @@
                 }
             }
         }
-    },
-    "defaultProject": "my-form"
+    }
 }
