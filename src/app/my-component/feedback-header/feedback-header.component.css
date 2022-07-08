@@ -1,3 +1,4 @@
+@import "~bootstrap-icons/font/bootstrap-icons.css";
 .logo_header {
     padding: 50px;
     width: 850px;
@@ -67,6 +68,7 @@
     left: -130px;
     bottom: -30px;
     border: 1px dotted;
+    z-index: 33;
     background: #f5f5f5;
 }
 
