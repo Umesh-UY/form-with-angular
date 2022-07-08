@@ -1,0 +1,22 @@
+.footer-content {
+    width: 850px;
+    margin-inline: auto;
+    background: #fff;
+    opacity: 70%;
+    padding: 10px 50px;
+}
+
+.footer-msg {
+    font-size: 12px;
+    margin: 15px 0px;
+}
+
+.footer-foot {
+    display: flex;
+    font-size: 13px;
+}
+
+.footer-foot a {
+    color: #084ea1;
+    text-decoration: underline;
+}

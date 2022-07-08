@@ -1,0 +1,9 @@
+:host {
+    font-family: sans-serif;
+}
+
+.formbody {
+    margin: 0px;
+    padding: 0px;
+    background-image: url("https://cdn.forms.office.net/forms/images/theme/meeting.png");
+}
